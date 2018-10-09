@@ -10,6 +10,10 @@ Wall:
 * @author: Kristy Garnder
 * *description from assignment:* "each Wall contains pointers to its two adjacent Cells...as well as a boolean visible that can be set to true if the Wall is still part of the maze and false if the Wall has been removed from the maze"
 
+Set:
+* @author: Ana Verma
+* node class for the linked list in UnionFind
+
 LLAddOnly:
 * @author: Kristy Gardner
 * *description from assignment:* "an abbreviated version of a linked list of Cell objects that only allows you to add to the list"
