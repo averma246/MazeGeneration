@@ -22,7 +22,4 @@ MazeGenerator:
 UnionFind:
 * @author: Ana Verma
 * *description from assignment:*
-      * "A method called makeset that takes a Cell as input and creates a new singleton set containing the input Cell.
-      *  A method called find that takes a Cell as input and returns a LLAddOnly that is the header of the set containing the  input Cell.
-      *  A method called union that takes two Cell objects as input and joins together the
-sets containing those Cells."
+      * "(1) A method called *makeset* that takes a Cell as input and creates a new singleton set containing the input Cell, (2) A method called *find* that takes a Cell as input and returns a LLAddOnly that is the header of the set containing the  input Cell, (3) A method called *union* that takes two Cell objects as input and joins together the sets containing those Cells."
